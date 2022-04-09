@@ -1,0 +1,15 @@
+del|C:\Users\Willie\Desktop\sortspell\todelete
+pics|C:\Users\Willie\Desktop\Personal\Stuff\aesthetics\opthos\momentsu
+py|C:\Users\Willie\Desktop\python residue 3
+hobbies|C:\Users\Willie\Desktop\Personal\Stuff\Hobbies
+art|C:\Users\Willie\Desktop\Personal\Stuff\Hobbies\tratm
+dnd|C:\Users\Willie\Desktop\Personal\Stuff\Hobbies\DND\hexcrawl
+fgo|C:\Users\Willie\Desktop\Personal\Stuff\Hobbies\gaemu\fgo
+genshin|C:\Users\Willie\Desktop\Personal\Stuff\Hobbies\gaemu\genshin
+pkmn|C:\Users\Willie\Desktop\Personal\Stuff\Hobbies\gaemu\pokemon
+saga|C:\Users\Willie\Desktop\Personal\Stuff\Hobbies\gaemu\saga
+switch|C:\Users\Willie\Desktop\Personal\Stuff\Hobbies\gaemu\switch
+rpg|C:\Users\Willie\Desktop\Personal\Stuff\Hobbies\gaemu\RPG stuff
+musics|C:\Users\Willie\Desktop\Extras\ms\the musics
+latestms|C:\Users\Willie\Desktop\Extras\ms\ms 10
+desktop|C:\Users\Willie\Desktop
